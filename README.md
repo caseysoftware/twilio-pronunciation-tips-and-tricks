@@ -37,5 +37,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/f3ab1eace17d7ef37d2bc177f3ef8fef "githalytics.com")](http://githalytics.com/caseysoftware/twilio-pronunciation-tips-and-tricks)
